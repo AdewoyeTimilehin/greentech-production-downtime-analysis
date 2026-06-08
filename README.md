@@ -69,18 +69,28 @@ The main objective is to optimize GreenTech's production schedules to minimize d
 ---
 
 ## 💡 Key Findings & Recommendations
-
-> *(Update this section with your actual findings after analysis)*
-
-- **Primary causes of downtime identified:** ...
-- **Most affected production lines:** ...
-- **Estimated efficiency improvement after optimization:** ...
+- **Total Batches: 645 batches processed, with 363 delayed — meaning over 56% of all batches experienced downtime, a critical inefficiency**
+- **Days Lost: 21.74 days lost to downtime across the period, with 885 downtime factors recorded spanning 13 distinct causes**
+- **Maximum Downtime per Batch: A single batch experienced up to 4 downtime events, indicating severe bottlenecks on specific runs**
+- **Top Downtime Causes: Cleaning/Sanitation (86) was the leading factor, followed by Raw Material Shortages (77), Scheduling Conflicts (76), Machine Breakdowns (75), and Safety Lockouts (71)**
+- **Operator vs Non-Operator Errors: 68.93% (610) of downtime factors were non-operator related, while 31.07% (275) were caused by operator errors — meaning systemic and equipment issues are the bigger problem**
+- **Downtime Duration: Non-operator errors accounted for 70.14% (15.25 days) of total days lost, while operator errors caused 29.86% (6.49 days)**
+- **Most Affected Product: GreenFoam Hand Soap had the highest production delay time at 191 hours, far ahead of BioWipe Cleaning Sheets (115), EcoWash Liquid Detergent (112), and RePack Recycled Packaging Film (104)**
+- **Planned vs Actual Production Time: EcoWash Liquid Detergent and RePack Recycled Packaging consistently exceeded planned production hours, indicating chronic underestimation in scheduling**
+- **Highest Downtime Operators: Paul (164 incidents) and James (144) recorded the most downtime frequency, nearly double that of Sarah (44) and John (46)**
+- **Highest Delay Rate by Operator: Linda had the highest percentage of delayed batches at 70.73%, followed by Sophia (65%) and Rita (63.41%), while Mike had the lowest at 47.92%**
+- **Operator Scheduling Conflicts: 51 days had multiple batches running simultaneously, with a total downtime frequency of 131 and 109 batches affected — pointing to significant scheduling overlap issues**
 
 ### Recommendations
-1. Implement automated scheduling to replace manual input and reduce human error
-2. Set up real-time alerts for machine performance to catch failures early
-3. Establish minimum stock thresholds for critical raw materials to prevent shortages
-4. Use Power BI dashboard insights for weekly production reviews
+1. Prioritise Cleaning & Sanitation Protocols — As the top downtime cause, implement structured sanitation schedules between batches to reduce unplanned cleaning stoppages
+2. Fix Raw Material Supply Chain — With 77 downtime events caused by material shortages, establish minimum stock thresholds and set up automated reorder triggers
+3. Overhaul Production Scheduling — 76 scheduling conflicts and 51 days of overlapping batches indicate the manual scheduling system is failing; transition to automated scheduling software
+4. Preventive Maintenance Programme — Machine breakdowns (75 incidents) can be reduced significantly with a structured preventive maintenance calendar for all equipment
+5. Investigate GreenFoam Hand Soap Line — With 191 hours of delay, this product line needs a dedicated root cause analysis to identify why it consistently underperforms
+6. Targeted Operator Training — Linda, Sophia, and Rita have the highest delay rates; provide focused retraining on batch management and error reduction
+7. Rebalance Operator Workloads — Paul and James are handling disproportionately high batch volumes leading to more incidents; redistribute workloads more evenly across the team
+8. Investigate the January–March Spike — The sharp drop in downtime after March 2025 suggests either an intervention worked or data collection changed; understanding this could help replicate improvements
+9. Revise Production Time Estimates — EcoWash and RePack consistently exceed planned hours; update scheduling assumptions to reflect realistic production durations and reduce idle time
 
 ---
 
