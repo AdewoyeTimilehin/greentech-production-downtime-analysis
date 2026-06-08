@@ -62,19 +62,9 @@ The main objective is to optimize GreenTech's production schedules to minimize d
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard 1.png)
-![Dashboard Preview](Dashboard 2.png)
-![Dashboard Preview](Dashboard 3.png)
-
----
-
-## 📂 Dataset
-
-| Dataset | Description |
-|---|---|
-| *(Add your dataset names here)* | *(Add descriptions)* |
-
-> **Note:** All datasets used in this project are sample/anonymised data for analytical purposes only.
+![Dashboard Preview](Dashboard1.png)
+![Dashboard Preview](Dashboard2.png)
+![Dashboard Preview](Dashboard3.png)
 
 ---
 
@@ -100,9 +90,11 @@ The main objective is to optimize GreenTech's production schedules to minimize d
 greentech-downtime-analysis/
 │
 ├── README.md
-├── Dashboard.png                  ← Power BI dashboard screenshot
-├── data/                          ← Project datasets
-└── workbook/                      ← Power BI file (.pbix)
+├── Dashboard1.png                  ← Power BI dashboard screenshot
+├── Dashboard1.png                  ← Power BI dashboard screenshot
+├── Dashboard1.png                  ← Power BI dashboard screenshot
+├── Greentech visuals.pbix          ← PowerBI file
+└── SQLQuery1/                      ← SQL file
 ```
 
 ---
