@@ -62,7 +62,9 @@ The main objective is to optimize GreenTech's production schedules to minimize d
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard 1.png)
+![Dashboard Preview](Dashboard 2.png)
+![Dashboard Preview](Dashboard 3.png)
 
 ---
 
