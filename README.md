@@ -1,5 +1,7 @@
 # 🏭 Evaluating Production Bottlenecks Through Downtime Analysis
 
+![Project Banner](greent.jpg)
+
 ## 🏢 Company Overview
 
 **GreenTech Manufacturing** was founded in 2010 by a group of engineers and entrepreneurs with a vision to provide high-quality, sustainable consumer goods. Specializing in eco-friendly household products, GreenTech has grown from a small startup to a leader in the eco-friendly consumer goods space, reaching an annual revenue of **$100 million by 2023**.
